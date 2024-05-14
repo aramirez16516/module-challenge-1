@@ -5,6 +5,8 @@ This challenge provided a marketing agency's website, HTML, and CSS. The HTML wa
 The CSS was updated to match the HTML changes, classes were removed and changed to sections, and naming of classes were changed. 
 
 ## Usage
+Link: https://aramirez16516.github.io/module-challenge-1/
+
 
 
 ## Credits

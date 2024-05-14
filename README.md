@@ -6,6 +6,7 @@ The CSS was updated to match the HTML changes, classes were removed and changed 
 
 ## Usage
 Link: https://aramirez16516.github.io/module-challenge-1/
+Screenshot: (assets/images/challenge1.png)
 
 
 
